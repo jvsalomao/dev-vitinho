@@ -1,0 +1,14 @@
+#profile-pic {
+    border-radius: 50%;
+}
+
+.bg-color {
+    background-color: whitesmoke;
+}
+
+footer {
+    background-color: #05389F;
+    color: whitesmoke;
+    padding: 5px;
+    text-align: center;
+}
